@@ -15,6 +15,13 @@ The device listens for OTA commands through MQTT, downloads the latest firmware 
 * Serial debugging and monitoring
 
 ---
+## Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/RB_t9PCFcYI">
+    <img src="https://img.youtube.com/vi/RB_t9PCFcYI/0.jpg" width="70%">
+  </a>
+</p>
 
 ## Architecture
 
